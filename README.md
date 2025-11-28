@@ -21,20 +21,20 @@ Timsort (це той алгоритм, який використовує Python 
 
 Приблизно виходить так:
 
-Розмір масиву: 500
-Insertion sort: ~0.05 сек
-Merge sort:     ~0.01 сек
-Timsort:        ~0.0007 сек
+Розмір масиву: 500/
+Insertion sort: ~0.05 сек.
+Merge sort:     ~0.01 сек.
+Timsort:        ~0.0007 сек.
 
-Розмір масиву: 2000
-Insertion sort: ~0.8 сек
-Merge sort:     ~0.03 сек
-Timsort:        ~0.002 сек
+Розмір масиву: 2000/
+Insertion sort: ~0.8 сек.
+Merge sort:     ~0.03 сек.
+Timsort:        ~0.002 сек.
 
-Розмір масиву: 5000
-Insertion sort: ~4 сек
-Merge sort:     ~0.10 сек
-Timsort:        ~0.004 сек
+Розмір масиву: 5000/
+Insertion sort: ~4 сек.
+Merge sort:     ~0.10 сек.
+Timsort:        ~0.004 сек.
 
 
 
